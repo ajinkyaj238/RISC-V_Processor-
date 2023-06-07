@@ -9,4 +9,5 @@ Throughout the project, I worked on three primary components of digital processo
 Through this hands-on project, I acquired valuable expertise in programming and testing digital logic circuits, utilizing FPGA technology, and employing SystemVerilog as a hardware description language. The successful implementation of a RISC-V-like single-cycle processor on the Xilinx FPGA demonstrated my ability to apply theoretical knowledge to practical hardware design.
 
 This project was done as a part of the lab section for EECE2322 Fundamentals of Digital Design and Computer Organization. 
+This repository contains all of the system verilog files I have created for this project. This repository does not include any IP files taken from vivado or any other files provided from the lab. 
 Espected date of completion: June 15th, 2023
