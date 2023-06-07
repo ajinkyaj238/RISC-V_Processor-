@@ -1,4 +1,4 @@
-# RISC-V_Processor
+# RISC-V Processor
 
 For this project I engaged in a lab project focused on building a RISC-V-like single-cycle processor using a Xilinx FPGA, gaining practical experience in digital logic, computer architecture, and assembly language. 
 
